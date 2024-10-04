@@ -285,8 +285,7 @@ section .title::after {
 }
 
 /* .service-content{
-    display: flex;
-    gap: 23px;
+    margin-bottom: 20px;
 } */
 
 .services .service-content .card {
@@ -296,6 +295,7 @@ section .title::after {
     text-align: center;
     border-radius: 6px;
     padding: 50px 25px;
+    margin-bottom: 30px;
     /* margin: 0 20px 10px; */
     cursor: pointer;
     transition: all 0.3s ease;
